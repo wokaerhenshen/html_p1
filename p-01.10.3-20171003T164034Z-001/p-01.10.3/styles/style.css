@@ -1,7 +1,8 @@
 ﻿@charset "utf-8";
 
 body{
-
+ right: 0; bottom: 0;
+ left: 0;
 }
 
 .main_bar{
@@ -16,8 +17,8 @@ body{
 }
 
 .small_bar{
-    height: 600px;
-    background-image: url(../images/sub2.jpg);
+    height: 350px;
+    background-image: url(../images/sub8.png);
     background-size: 100%;
 	background-repeat: no-repeat;
    
@@ -25,7 +26,7 @@ body{
 
 .main_nav_bar a:hover{
     color: gray;
-         -webkit-transition: color 0.6s linear;
+    -webkit-transition: color 0.6s linear;
 }
 
 #back{
@@ -47,6 +48,7 @@ body{
 
 .main_bar li {
     font-family: 'Raleway', sans-serif;
+    font-weight: bold;
 }
 
 .main_bar a {
@@ -64,17 +66,19 @@ body{
 
 }
 
-.main_nav_bar ul{
-}
 
 
 .main_bar_title_1{
     clear: both;
     text-align: center;
-    font-size: 80px;
+    font-size: 60px;
     display: block;
     padding-top: 100px;
     font-family: 'Playfair Display', serif;
+}
+
+.main_title{
+    font-size: 80px;
 }
 
 .main_bar_title_2{
@@ -92,7 +96,7 @@ body{
 
 .main_bar_tittle_4{
     text-align: center;
-    font-size: 100px;
+    font-size: 60px;
     color: white;
     padding-top: 100px;
 }
@@ -105,14 +109,14 @@ body{
     margin-right: auto;
     border: 2px solid;
     border-radius: 50px;
-   font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 #button_white:hover{
     color: black;
     background-color: white;
     border-color: white;
-     -webkit-transition: color,background-color 0.6s linear;
+    -webkit-transition: color,background-color 0.6s linear;
 }
 
 .main_bar_culture,.main_bar_food,.main_bar_geography,.main_bar_contact{
@@ -143,8 +147,9 @@ body{
 
 .form{
     margin-left: -60%;
-    margin-right: 10%;
+    margin-right: 20%;
     float: left;
+    
     
 }
 
@@ -160,12 +165,11 @@ body{
 }
 
 .form_item{
-   margin: 1%;
+   margin: 4%;
     width: 400px;
     height: 40px;
     background-color:whitesmoke;
     border-style: none;
-    
 }
 
 .message{
@@ -174,17 +178,13 @@ body{
     vertical-align: top;
 }
 
-
-.form_item:hover{
-    
-}
-
 ::-webkit-input-placeholder { 
     color:black;
     font-family: 'Playfair Display', serif;
-    font-size: 15px;
+    font-size: 18px;
     transition: opacity 250ms ease-in-out;
 }
+
 :focus::-webkit-input-placeholder {
   opacity: 0.5;
 }
@@ -194,19 +194,21 @@ body{
 }
 
 #submit{
-    width: 20%;
+    width: 30%;
     height: 42px;
     line-height: 42px;
     color: white;
     background-color: lightgrey;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 15px;
+    font-weight: bold;
     border-radius: 20px;
     font-family: 'Raleway', sans-serif;
     display: block;
     text-align: center;
-    margin-left: 1%;
-    margin-top: 1%;
+    margin-left: 4%;
+    margin-top: 6%;
+    margin-bottom: 20px;
 }
 
 
@@ -227,4 +229,17 @@ footer{
 
 footer a{
     color: white;
+}
+
+/*This is CSS properties for contact page*/
+#contact_text{
+    margin-left: -20%;
+    margin-top: 15%;
+    height: 200px;
+    font-size: 35px;
+    font-family: 'Playfair Display', serif;
+}
+
+.location{
+    margin-left: -23px;
 }
