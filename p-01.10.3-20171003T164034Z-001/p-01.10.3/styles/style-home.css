@@ -88,6 +88,7 @@ float: left;
     background-image: url(../images/sub9.png);
     background-size:cover;
     background-repeat: no-repeat;
+    
 }
 
 #main_bar_contact_content{
@@ -108,6 +109,3 @@ float: left;
    
 }
 
-.footer_home{
-    margin-top: 100px;
-}
