@@ -5,7 +5,8 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" type="text/css" href="styles/style.css">
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-    <title></title>
+    <link rel="stylesheet" type="text/css" href="styles/style-contacts.css">
+    <title>contacts</title>
 </head>
 <body>
 <div class ="main_bar small_bar">
@@ -24,7 +25,7 @@
 <div class="content">
 <div id="contact_text">Feel free to contact me.</div>
 <div class="form">
-    <form method="get" action="test.html">
+    <form method="post" action="home.html" onSubmit="alert('thank you for your submit');">
         <input type="text" name="fullname" placeholder="Full Name" class="form_item">
         <br>
         <input type="text" name="emailaddress" placeholder="Email Address" class="form_item">
@@ -33,7 +34,7 @@
         <br>
          <input type="text" name="message" placeholder="Enter Your Message" class="form_item message">
         <br>
-       <a href="test.html" id="submit">SUBMIT</a>
+       <input type="submit" id="submit" value="SUBMIT" />
     </form>
 </div>
 <div class="address">

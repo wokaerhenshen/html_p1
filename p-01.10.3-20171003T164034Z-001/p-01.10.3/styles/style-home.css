@@ -1,0 +1,113 @@
+#cities_button{
+    width: 10%;
+}
+
+.main_bar_food_content{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 23px;
+    margin-top: -3%;
+    
+}
+
+.home_food_page{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 4%;
+}
+
+#food_button{
+    font-size:14px; 
+    display: block;
+    height: 42px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 42px;
+    color: white;
+    background-color:slategrey;
+    margin-top: -10%;
+    margin-bottom: 5%;
+    
+}
+#food_button:hover{
+    background-color:black;
+}
+
+#demo {
+background: #FFF;
+overflow:hidden;
+border: 1px dashed #CCC;
+width: 500px;
+margin-left: 50%
+}
+
+#demo img {
+width: 300px;
+height: 
+border: 3px solid #F2F2F2;
+}
+
+#indemo {
+
+float: left;
+width: 800%;
+}
+#demo1 {
+float: left;
+}
+#demo2 {
+float: left;
+}
+
+.geography_button{
+    clear:both;
+   
+}
+
+#geography_button{
+    font-size:14px; 
+    display: block;
+    height: 42px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 42px;
+    color: white;
+    background-color:slategrey;
+    margin-top: 8%;
+}
+#geography_button:hover{
+    background-color:black;
+}
+
+.main_bar_contact{
+    clear: both;
+    margin-top: 10%;
+    width:100%;
+    height:400px;
+    background-image: url(../images/sub9.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+#main_bar_contact_content{
+    font-size: 30px;
+    
+    
+}
+
+#contacts_button{
+    font-size:14px; 
+    display: block;
+    height: 42px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 42px;
+    color: white;
+    
+   
+}
+
+.footer_home{
+    margin-top: 100px;
+}
