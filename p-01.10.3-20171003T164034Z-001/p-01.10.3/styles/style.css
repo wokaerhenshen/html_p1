@@ -16,6 +16,15 @@ body{
 
 }
 
+.main_bar_title_1{
+    clear: both;
+    text-align: center;
+    font-size: 60px;
+    display: block;
+    padding-top: 100px;
+    font-family: 'Playfair Display', serif;
+}
+
 .small_bar{
     height: 350px;
     background-image: url(../images/sub8.png);
@@ -67,83 +76,6 @@ body{
 }
 
 
-
-.main_bar_title_1{
-    clear: both;
-    text-align: center;
-    font-size: 60px;
-    display: block;
-    padding-top: 100px;
-    font-family: 'Playfair Display', serif;
-}
-
-
-.main_title{
-    font-size: 80px;
-}
-
-.main_bar_title_2{
-    text-align: center;
-    font-size: 30px;
-    font-family: 'Lobster Two', cursive;
-
-}
-
-.main_bar_tittle_3{
-    text-align: center;
-    font-size: 60px;
-    margin-top: 10%
-}
-
-.main_bar_tittle_4{
-    text-align: center;
-    font-size: 60px;
-    color: white;
-    padding-top: 100px;
-}
-
-.button_white{
-    width: 10%;
-    text-align: center;
-    font-size: 14px;
-    font-weight: bold;
-    margin-left: 45%;
-    margin-right: auto;
-    border: 2px solid;
-    border-radius: 50px;
-    font-family: 'Raleway', sans-serif;
-}
-
-.button_white:hover{
-    color: black;
-    background-color: white;
-    border-color: white;
-    -webkit-transition: color,background-color 0.6s linear;
-}
-
-.main_bar_culture{
-    width: 100%;
-    height: 700px;
-}
-
-.main_bar_culture{
-    background-color: white;
-}
-
-.main_bar_geography{
-    clear: both;
-    width:100%;
-    height:400px;
-    background-image: url(../images/sub9.png);
-    background-size:cover;
-    background-repeat: no-repeat;
-}
-
-.home_geography_content{
-        width:100%;
-        height:400px;
-}
-
 .main_body{
     width: 100%;
     height: 800px;
@@ -168,9 +100,7 @@ footer{
 	font-size: 15px;
 }
 
-footer a{
-    color: white;
-}
+
 
 .footer_content{
     width: 50%;
@@ -178,10 +108,68 @@ footer a{
     margin-right: auto;
 }
 
-#foot_logo{
-   width: 20%;
+#foot_logos{
+    margin-top: 15%;
 }
 
 #foot_back{
-    width: 20%;
+    width: 15%;
+    margin-left: 60%;    
 }
+
+#foot_address{
+    margin-top: 8%;
+    font-family: 'Raleway', sans-serif;
+}
+
+.foot_copyright{
+    width: 31%;
+    float: left;
+    font-size: 9px;
+    margin-top: 7%;
+}
+
+.foot_nav{
+    width: 60%;
+    float: left;
+    margin-top: 7%;
+    margin-left: 1
+}
+
+.foot_nav ul{
+    list-style: none;    
+}
+
+.foot_nav li {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.foot_nav a {
+    font-size: 12px;
+    width: 25%;
+    float: left;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    
+
+}
+
+
+.foot_nav a:hover{
+    color: gray;
+    -webkit-transition: color 0.6s linear;
+}
+
+#foot_logos:hover{
+    opacity: 0.5;
+    -webkit-transition: opacity 0.3s linear;
+}
+
+#foot_back:hover{
+    opacity: 0.5;
+    -webkit-transition: opacity 0.3s linear;
+}
+
