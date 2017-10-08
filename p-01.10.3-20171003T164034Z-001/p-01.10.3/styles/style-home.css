@@ -19,7 +19,8 @@
     text-align: center;
     font-size: 60px;
     color: white;
-    padding-top: 100px;
+    padding-top: 170px;
+
 }
 
 .button_white{
@@ -54,8 +55,8 @@
 .main_bar_geography{
     clear: both;
     width:100%;
-    height:300px;
-    background-image: url(../images/sub9.png);
+    height:400px;
+    background-image: url(../images/home-5.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -154,16 +155,14 @@ float: left;
     margin-top: 10%;
     width:100%;
     height:400px;
-    background-image: url(../images/sub9.png);
+    background-image: url(../images/home-6.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     
 }
 
 #main_bar_contact_content{
-    font-size: 30px;
-    
-    
+    font-size: 23px;
 }
 
 #contacts_button{
@@ -174,7 +173,11 @@ float: left;
     text-align: center;
     line-height: 42px;
     color: white;
-    
+    margin-top: 2%;
    
 }
 
+#contacts_button:hover{
+    color: black;
+    
+}

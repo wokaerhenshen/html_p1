@@ -1,0 +1,71 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hehe.com" resolutions="1x" timestamp="1501743860439">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4080111204" ref="contact:about:identity:layout:index"/>
+    <file name="contact.css" crc="83087841" ref="contact"/>
+    <file name="about.css" crc="534983212" ref="about"/>
+    <file name="identity.css" crc="412932648" ref="identity"/>
+    <file name="layout.css" crc="387502617" ref="layout"/>
+    <file name="index.css" crc="327701532" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:identity:contact:layout:about"/>
+    <file name="museutils.js" crc="4216313831" ref="index:identity:contact:layout:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:identity:contact:layout:about"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:identity:contact:layout:about"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:identity:contact:layout:about"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:identity:contact:layout:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:identity:contact:layout:about"/>
+    <file name="require.js" crc="3951022091" ref="index:identity:contact:layout:about"/>
+  </folder>
+  <folder name="images">
+    <file name="cover.png" crc="288561915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u924-12.png" crc="4026333302" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:identity:contact:layout:about"/>
+    <file name="u534.png" crc="212141985" ref="index:identity:contact:layout:about"/>
+    <file name="u534-r.png" crc="3914328174" ref="index:identity:contact:layout:about"/>
+    <file name="u534-m.png" crc="3914328174" ref="index:identity:contact:layout:about"/>
+    <file name="u534-a.png" crc="212141985" ref="index:identity:contact:layout:about"/>
+    <file name="u654.png" crc="143449344" ref="index:identity:contact:layout:about"/>
+    <file name="u654-r.png" crc="4286747687" ref="index:identity:contact:layout:about"/>
+    <file name="u654-m.png" crc="4286747687" ref="index:identity:contact:layout:about"/>
+    <file name="u654-a.png" crc="143449344" ref="index:identity:contact:layout:about"/>
+    <file name="u541.png" crc="4095096756" ref="index:identity:contact:layout:about"/>
+    <file name="u541-r.png" crc="3958299166" ref="index:identity:contact:layout:about"/>
+    <file name="u541-m.png" crc="3958299166" ref="index:identity:contact:layout:about"/>
+    <file name="u541-a.png" crc="4095096756" ref="index:identity:contact:layout:about"/>
+    <file name="u578.png" crc="4015938914" ref="index:identity:contact:layout:about"/>
+    <file name="u578-r.png" crc="4052184751" ref="index:identity:contact:layout:about"/>
+    <file name="u578-m.png" crc="4052184751" ref="index:identity:contact:layout:about"/>
+    <file name="u578-a.png" crc="4015938914" ref="index:identity:contact:layout:about"/>
+    <file name="u606.png" crc="150358139" ref="index:identity:contact:layout:about"/>
+    <file name="u606-r.png" crc="333254835" ref="index:identity:contact:layout:about"/>
+    <file name="u606-m.png" crc="333254835" ref="index:identity:contact:layout:about"/>
+    <file name="u606-a.png" crc="150358139" ref="index:identity:contact:layout:about"/>
+    <file name="u690-4.png" crc="3923642048" ref="identity"/>
+    <file name="u702-4.png" crc="3827428735" ref="contact"/>
+    <file name="未标题-1.png" crc="490679817" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="未标题-2.png" crc="3766979591" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u940-4.png" crc="4222694084" ref="contact"/>
+    <file name="u946-4.png" crc="284436114" ref="contact"/>
+    <file name="u949-4.png" crc="65997007" ref="contact"/>
+    <file name="u696-4.png" crc="3841683985" ref="layout"/>
+    <file name="u671-4.png" crc="4203651971" ref="about"/>
+    <file name="未标题-3.png" crc="3966847482" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u962-4.png" crc="529546289" ref="about"/>
+    <file name="u965-4.png" crc="3987692633" ref="about"/>
+  </folder>
+  <file name="index.html" crc="135884769" seo="true" mt="1501741428855" redirect="true"/>
+  <file name="identity.html" crc="4217906449" seo="true" mt="1501741445856" redirect="true"/>
+  <file name="contact.html" crc="452686280" seo="true" mt="1501743002576" redirect="true"/>
+  <file name="layout.html" crc="480950324" seo="true" mt="1501741512837" redirect="true"/>
+  <file name="about.html" crc="213683475" seo="true" mt="1501743749475" redirect="true"/>
+</manifest>

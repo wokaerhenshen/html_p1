@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://hehe.com/index.html</loc>
+    <lastmod>2017-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hehe.com/images/cover.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hehe.com/identity.html</loc>
+    <lastmod>2017-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hehe.com/contact.html</loc>
+    <lastmod>2017-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hehe.com/images/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hehe.com/images/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hehe.com/layout.html</loc>
+    <lastmod>2017-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hehe.com/about.html</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hehe.com/images/%E6%9C%AA%E6%A0%87%E9%A2%98-3.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
