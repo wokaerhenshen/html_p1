@@ -1,6 +1,6 @@
 .main_body_Geography{
     width: 100%;
-    height: 800px;
+    height: 500px;
     background-repeat: no-repeat;
     background-position:center;
     
@@ -35,5 +35,19 @@
 
 .geo_content{
     clear: both;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
     
+}
+
+.geo_content_title{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.geo_content_body{
+    line-height: 40px;
 }
