@@ -1,0 +1,80 @@
+/* 懒人图库 搜集整理 www.lanrentuku.com */
+.cul-title{
+    
+text-align: center;
+font-size: 30px;
+padding-bottom: 10px;
+    
+}
+
+.gallery img:hover{
+    opacity: 0.5;
+    -webkit-transition: opacity 0.6s linear;
+}
+
+pre {
+    width: 340px;
+    margin: 0 auto;
+    border: dashed 1px #aaa;
+    margin-bottom: 10px;
+}
+
+.gallery:after {
+    content: '';
+    display: block;
+    height: 2px;
+    margin: .5em 0 1.4em;
+    background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0) 0%, rgba(77,77,77,1) 50%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(77,77,77,1) 50%, rgba(0, 0, 0, 0) 100%);
+}
+
+
+
+.baguetteBoxOne {
+	width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#cul-img1{
+    position: relative;
+    top: -280px;
+    right: 27px;
+}
+
+#cul-img3{
+    position: relative;
+    top: -255px;
+    right: 27px;
+}
+
+#cul-img4{
+    position: relative;
+    top: -604px;
+    left: 350px;
+}
+
+#cul-img5{
+    position: relative;
+    top: -578px;
+    left: 674px;
+}
+
+
+.cul-map{
+    clear: both;
+    float: left;
+    width: 50%;
+    padding-left: 200px
+
+}
+
+.table{
+    float:left;
+    width: 40%;
+}
+
+
+/* Highlight.js Tomorrow Night style */
+.hljs-comment{color:#969896}.hljs-tag{color:#f8f8f2}.css .hljs-class,.css .hljs-id,.css .hljs-pseudo,.hljs-attribute,.hljs-regexp,.hljs-title,.hljs-variable,.html .hljs-doctype,.ruby .hljs-constant,.xml .hljs-doctype,.xml .hljs-pi,.xml .hljs-tag .hljs-title{color:#c66}.hljs-built_in,.hljs-constant,.hljs-literal,.hljs-number,.hljs-params,.hljs-pragma,.hljs-preprocessor{color:#de935f}.css .hljs-rules .hljs-attribute,.ruby .hljs-class .hljs-title{color:#f0c674}.hljs-header,.hljs-inheritance,.hljs-string,.hljs-value,.ruby .hljs-symbol,.xml .hljs-cdata{color:#b5bd68}.css .hljs-hexcolor{color:#8abeb7}.coffeescript .hljs-title,.hljs-function,.javascript .hljs-title,.perl .hljs-sub,.python .hljs-decorator,.python .hljs-title,.ruby .hljs-function .hljs-title,.ruby .hljs-title .hljs-keyword{color:#81a2be}.hljs-keyword,.javascript .hljs-function{color:#b294bb}.hljs{display:block;overflow-x:auto;background:#35383C;color:#c5c8c6;padding:.8em}.coffeescript .javascript,.javascript .xml,.tex .hljs-formula,.xml .css,.xml .hljs-cdata,.xml .javascript,.xml .vbscript{opacity:.5}
