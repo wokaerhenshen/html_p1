@@ -15,6 +15,11 @@
     margin-right: -6%;
 }
 
+#bg_back:hover{
+    opacity: 0.5;
+    -webkit-transition: opacity 0.6s linear;
+}
+
 .bg_main_nav_bar{
     float: left;
     width: 40%;
@@ -44,6 +49,12 @@
     line-height: 42px;
     color: white;   
 }
+
+.bg_main_nav_bar a:hover{
+    color: gray;
+    -webkit-transition: color 0.6s linear;
+}
+
 
 .bg_text{
     clear: both;
