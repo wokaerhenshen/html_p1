@@ -6,7 +6,7 @@
     
 }
 
-#geo_text{
+.geo_text{
     clear: both;
     width: 50%;
     margin-left: auto;
@@ -49,5 +49,7 @@
 }
 
 .geo_content_body{
+    margin-top: -0px;
     line-height: 40px;
+    font-family: 'Raleway', sans-serif;
 }
