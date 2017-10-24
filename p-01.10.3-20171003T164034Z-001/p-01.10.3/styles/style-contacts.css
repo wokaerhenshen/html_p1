@@ -12,8 +12,8 @@
 
 .form{
     clear: both;
-    margin-left: 5%;
-    margin-right: 20%;
+    margin-left: %;
+    margin-right: 15%;
     float: left;
     margin-bottom: 100px;
     
@@ -23,6 +23,12 @@
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
     line-height: 200%;
+}
+
+.map{
+    float: right;
+    margin-top: -50%;
+    
 }
 
 .form_item{
@@ -46,7 +52,6 @@
 
 
 .message{
-    
     height:120px;
     vertical-align:text-top;
     vertical-align: top;
